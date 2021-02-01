@@ -61,4 +61,4 @@ async def hewwo(ctx):
 	embed.add_field(name=' Latency::ping_pong:', value=f'{ping}')
 	await ctx.message.channel.send(embed=embed)
 
-client.run("NzE3OTc1NDgzMTE1MTEwNDMx.XxowBg.q3eAv-K8DGQY7mGGU5yFH8iXFLM")
+client.run("")
