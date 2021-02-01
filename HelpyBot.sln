@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelpyBot", "HelpyBot.pyproj", "{6B6CA0B7-A945-4929-9DC0-A3BA99471CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6CA0B7-A945-4929-9DC0-A3BA99471CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6CA0B7-A945-4929-9DC0-A3BA99471CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7756BEE2-807B-458C-9CD6-059E49620139}
+	EndGlobalSection
+EndGlobal
